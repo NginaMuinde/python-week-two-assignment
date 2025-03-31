@@ -10,3 +10,4 @@ This repository contains the solution for the Week Two Assignment in Python Prog
 5. Remove the last element.
 6. Sort the list in ascending order.
 7. Find and print the index of the value `30`.
+![image](https://github.com/user-attachments/assets/efd4c99e-ea42-429f-95ca-deb9e6322b44)
